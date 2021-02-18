@@ -1,0 +1,32 @@
+Comandos para trabajar en Git Basgh:
+
+'cd' --- abrir o moverse
+
+'cd ..' --- volver
+
+'ls' --- mostrar archivos
+
+'ls -a'--- mostrar archivos ocultos
+
+'cat' ---- ver archivo (contenido)
+
+'vim nombre_archivo' --- abre y edita archivo: ('i'=inserta texto),('Esc' + ':wq' = guarda cambios y salir)
+('q!' = forzar salida)
+
+'git status' --- (estado del repositorio)
+
+'git diff' ---- diferencias area trabajo y la ultima modificacion
+
+'git diff HEAD~1' ---- DIFERENCIA ENTRE VERSIONES 
+
+'git log' ---- ver cuantos comid tienes
+
+'git add nombre_Archivo' --- pasar de A-trabajo a A-preparación
+
+'git commit -m 'Descripcion de los cambios a la version' --- Guarda la nueva version en el repositorio
+
+'git clone URL' ----- Se clona el repositurio de al gus servidor en el cual lo tenga guardado
+
+'git push' ---- sube la informacion al servidor GidHap
+
+'git pull ' ---- descargar las actualizaciones del repositorio
