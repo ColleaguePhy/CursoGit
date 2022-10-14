@@ -1,0 +1,1 @@
+**NOTA:** Yerimi la idea es que haga una lista con los comandos que se usen a lo largo del curso, dejando la descripción de estos.
